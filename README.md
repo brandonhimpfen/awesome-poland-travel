@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Poland, covering official tourism boards, rail transport networks, historic regional guides, national parks, and digital nomad resources.
 
+Poland is a historic Central European destination featuring meticulously reconstructed old towns, medieval castles, Baltic coastal beaches, and rugged mountain ranges. This list is intended for cultural travelers, history enthusiasts, alpine hikers, and technology professionals.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
