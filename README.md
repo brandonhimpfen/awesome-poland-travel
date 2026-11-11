@@ -10,6 +10,8 @@
 
 Poland is a historic Central European destination featuring meticulously reconstructed old towns, medieval castles, Baltic coastal beaches, and rugged mountain ranges. This list is intended for cultural travelers, history enthusiasts, alpine hikers, and technology professionals.
 
+_Support ongoing maintenance and curation via [GitHub Sponsors](https://github.com/sponsors/brandonhimpfen)._
+
 ## Contents
 
 - [Official & Planning](#official--planning)
@@ -114,7 +116,9 @@ Practical advice on emergency contacts, medical assistance, and local safety rul
   
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
